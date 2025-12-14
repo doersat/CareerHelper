@@ -56,8 +56,8 @@ CareerHelper - Бот который поможет подросткам и вз
 # Авторы 
 
 
-gaechka
+### gaechka
 
 
 
-DeepSeek(главный помощник)
+### DeepSeek(главный помощник)
